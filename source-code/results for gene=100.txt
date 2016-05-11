@@ -1,0 +1,3717 @@
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 30563
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 52450
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 1772
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 78740
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4948
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 10678
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 7310
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 10803
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 1906
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 19189
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 42799
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 19114
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11575
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 26253
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 1966
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 15912
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 31100
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5121
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 19763
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 12394
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -2818
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 5636
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 16037
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 53262
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3200
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 25351
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 367
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 10089
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -22014
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -12282
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 14968
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2852
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -602
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -7631
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 14565
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -5346
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3362
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 100
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -564
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 6770
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 10
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 38589
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 4134
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 8795
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 19795
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 334
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2316
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 15517
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 11652
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -5609
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -829
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 7736
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11796
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 205122
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 53211
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 130903
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 157575
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 109268
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 41330
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 13046
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 74282
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 36343
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 2419
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 16830
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 13067
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 135636
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5924
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 118358
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 49883
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 14666
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 23347
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5725
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 79725
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5178
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 40870
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 7236
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 218647
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 2141
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 760
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 186985
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 3495
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 13004
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 982
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -17327
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 39153
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 712
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -13284
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 91928
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 38547
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3358
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 8785
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 35244
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -18509
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -11960
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 32884
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 34068
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 82321
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 22843
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 10781
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1521
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3196
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -8815
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1981
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 37348
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 37293
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 14617
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -8375
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 26780
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 97902
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 69068
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: -726
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 18765
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 33431
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 3619
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5720
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11072
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 32509
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4170
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11334
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 7023
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 16420
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 34212
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 8174
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4450
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 1798
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 186
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 2713
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 419
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4032
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 10579
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4825
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11619
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 31588
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 8770
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 38280
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 964
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 7560
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 17307
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 18290
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5457
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 28313
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 14289
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 83475
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 8284
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 23444
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11101
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 23330
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 3031
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 14810
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 62062
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 35963
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 28284
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 44720
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 10583
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 14827
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 19735
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 74979
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 94167
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 106946
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 13208
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 56572
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 82466
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11072
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4517
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 2651
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 18910
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 20969
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5290
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 22000
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 16191
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 163916
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 1753
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 4473
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3562403
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1908
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 522
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1700
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 36298
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1183
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 18722
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 611
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 12256
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 5558992
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 12571
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 58836
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 25207
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1662357
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 8829
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 14774
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1501
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3468
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 987407
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 7533
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2097
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3267138
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3064625
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 5989457
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 17160
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 14715
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 25134
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 430
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 12847
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 33848
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3637262
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 27875
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 143
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 21055
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 10374
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 4480
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 36508
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3698
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 7454
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1501339
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 81467
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3313
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 11329
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1961520
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 26065
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 4223613
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 171464
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1980390
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1098802
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 84718
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 197499
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 9122
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 333712
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 34011
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1125
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 6690
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3177345
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 73471
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 7208
+*******************************
+*********** RESULT ************
+POPULATION     : 25
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 6385
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 13775
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 12167
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 26404
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3753625
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 8264
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1376
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 10972
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3636
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1817505
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 502143
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1781
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 522836
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 333472
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1895
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 233723
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 5495
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3361
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 4256
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 6887
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 17717
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 24494
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1072026
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 4124
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2860559
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 622469
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1555
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1408063
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 981930
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 11981
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 844397
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 11608
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 857363
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 88746
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 14780
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 10499
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1738644
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1059
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 612143
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 396095
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 642353
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 24746
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 267
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2596
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 618678
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1741963
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 35971
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 12985
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 32628
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2880
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 17360
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 35669
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 13319
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 37662
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 272
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 25511
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 40479
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 907
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2576065
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 30084
+*******************************
+*********** RESULT ************
+POPULATION     : 50
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1329851
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11067
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 10915
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5458
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 9559
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5945
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 19186
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 388
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 888
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 8333
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 617
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 514
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 597
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 660
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 9469
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11098
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 1374
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 1044
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 2493
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5123
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 34537
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 8492
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 1463
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5626
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 2887
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4066
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 16564
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 15934
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 2585
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 179
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4479
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 502
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 6469
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1305
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 574852
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 6061
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2030
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3828
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 428
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 22767
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 7386
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 217
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 11073
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 7436
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3484
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 6024
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 445
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1744
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1931299
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 146210
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 805
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 5585
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 559531
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1778
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 4555
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 292950
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 6063
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 7294
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 11180
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1861
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 12158
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : true
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 1435
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 16823
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 8382
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 18647
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 9654
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 69326
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 63896
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 13500
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4964
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 21373
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 3299
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 61178
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 5641
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 36760
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 13935
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 4794
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 45683
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 2005
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 6270
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 7846
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 30160
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 26697
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 11880
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 67709
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 9901
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 9324
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 12398
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 59445
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 53452
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 54346
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 0
+
+FREE SPACE LEFT: 37801
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 14122
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 595763
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 525
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 369
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 749414
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2006993
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 12134
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 32315
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 628356
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 1
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 4322
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 7364
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 95187
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 26009
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 808244
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 430825
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 12400
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 19913
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 8427
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3047
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 5
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 30034
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 463
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 308185
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2987
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 158970
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 4022
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 209661
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 2557881
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 35644
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 3778
+*******************************
+*********** RESULT ************
+POPULATION     : 100
+GENERATIONS    : 100
+CUTPOINTS      : 10
+ELITISM        : false
+PENALTY POINT  : 2
+
+FREE SPACE LEFT: 676
+*******************************
