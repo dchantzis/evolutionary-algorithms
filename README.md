@@ -1,6 +1,6 @@
 # README
 
-## Cinema project
+## Evolutionary algorithms
 **Built date:** 2005
 
 **Documentation:** [PDF](https://github.com/dchantzis/evolutionary-algorithms/blob/master/evolutionaryalgorithms%5Bgreek%5D.pdf)
